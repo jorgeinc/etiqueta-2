@@ -1,0 +1,152 @@
+body{  
+    background-image: url(imagen/logotipo.jpg);
+    background-position:auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+     }
+h1{
+    background-color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-radius: 58px;
+    white-space: normal;
+    width: 360px;
+    border-width:thin;
+    font-family: cursive;
+    color:crimson;
+    text-decoration:underline;
+    text-align: center;
+    font-size:3em;
+    }
+
+
+h2{
+    color:rgb(210, 44, 44);
+    font-family:sans-serif;
+    text-decoration:none;
+    text-align: center;
+    font-size: 1em;
+    font-weight:inherit;     
+    }    
+
+
+spam{
+    color: red;
+}
+
+img{
+    transition:all 0.5s ease;
+}
+
+img:hover{
+    transform: scale(0.9);
+}
+
+   tablas{
+    text-align: center;
+    background-color:#808089; 
+    height:auto; overflow: hidden;  
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:10px;
+    border-collapse:collapse;
+     
+}
+td,th
+{ 
+background-color: rgb(208, 68, 68);
+padding-left: 20px;
+padding-right: 20px;
+border: 2px solid red
+
+}
+
+#slide{
+   width: 63%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+.separador1{
+    height: auto;
+    padding: 5%; 
+    float: left;
+}
+
+.separador{
+    height: 5px;
+}
+
+ .pie{
+    font-family: cursive;
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 87px;
+    width: 1001px;
+    clear: both;
+}
+
+.pie2{
+ 
+    color:rgb(134, 183, 134);
+    text-align: center;
+    height: 20px;
+    margin: auto;
+    font-size:40px;
+}
+
+.pie3{
+    color:blanchedalmond;
+    font-family:sans-serif;
+    font-size: 12px
+}
+
+.tabla2{
+    width: 900px;
+    height: auto; overflow: hidden;
+
+}
+
+.der{
+    width: 490px;
+    height: 300px;
+    float: right;
+    margin:  10px;
+}
+iframe{
+    width: 450px;
+    height: 220px;
+    border-radius: 21px;
+    margin: auto;
+    display: block;
+    float: right;
+
+    
+}
+.nt{
+    color:aliceblue;
+    text-align: center;
+    font-family: cursive;
+    font-family: monospace;
+}
+.credit{
+    text-align: center;
+    font-family:monospace;
+    font-size: 200%;
+    color: aquamarine;
+    text-decoration: underline;
+}
+.pr{
+    color: aquamarine;
+    text-align:center;
+    font-family: cursive;
+}
+
